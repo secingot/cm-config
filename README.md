@@ -1,2 +1,2 @@
-# ingot-config
-ingot config
+# cm-config
+cm config
