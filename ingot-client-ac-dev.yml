@@ -21,6 +21,12 @@ security:
       id: ingot-resource-ac
 
 ingot:
+  validateCode:
+    sms:
+      expireIn: 300
+      mobileMaxSendCount: 10
+      ipMaxSendCount: 10
+      totalMaxSendCount: 50
   application:
     dataCenterId: 0
     machineId: 0
