@@ -94,3 +94,4 @@ ingot:
         - /ac/auth/code/**
         - /ac/auth/login
         - /ac/auth/admin/login
+        - /ac/auth/admin/modifyPasswordByMobile
