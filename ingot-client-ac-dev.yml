@@ -37,5 +37,6 @@ ingot:
       permit:
       - /auth/user/refreshToken
       - /auth/code/**
+      - /auth/admin/modifyPasswordByMobile
       - /login
       - /test/**
